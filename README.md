@@ -1,4 +1,4 @@
-- Customer-Behavior-Analysis-Project
+Customer-Behavior-Analysis-Project
 Data Analysis project including presentation and dashboard using Python, SQL and Power BI
 
 The goal of this project is to simulate a corporate-grade end-to-end data analytics workflow, demonstrating the ability to translate raw data into strategic business intelligence by:
